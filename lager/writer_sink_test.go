@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/gorefa/lager"
+	"github.com/gorefa/log/lager"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
