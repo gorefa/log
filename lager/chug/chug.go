@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gorefa/lager"
+	"github.com/gorefa/log/lager"
 )
 
 //Entry is a struct

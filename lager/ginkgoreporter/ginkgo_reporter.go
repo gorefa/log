@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/gorefa/lager"
+	"github.com/gorefa/log/lager"
 	"github.com/onsi/ginkgo/config"
 	"github.com/onsi/ginkgo/types"
 )
